@@ -15,12 +15,11 @@ galaxy_info:
   - name: Debian
     versions:
     - all
-  galaxy_tags: 
+  galaxy_tags:
       - elasticsearch
-      - geoip
+      - geoip2
       - beats
       - packetbeat
       - logstash
 
 dependencies: []
-
